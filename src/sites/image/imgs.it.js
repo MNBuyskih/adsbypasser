@@ -9,6 +9,7 @@
                 /^imgs\.it$/,
                 /^imgget\.net$/,
                 /^imageontime\.org$/,
+                /^gogoimage\.org$/,
             ],
             path: /^\/img-.*\.html$/
         },
