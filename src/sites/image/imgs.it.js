@@ -8,6 +8,7 @@
             host: [
                 /^imgs\.it$/,
                 /^imgget\.net$/,
+                /^imageontime\.org$/,
             ],
             path: /^\/img-.*\.html$/
         },
